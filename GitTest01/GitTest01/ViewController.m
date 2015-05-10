@@ -19,6 +19,7 @@
   // Do any additional setup after loading the view, typically from a nib.
   [self.view setBackgroundColor:[UIColor grayColor]];
   NSLog(@"Git test");
+  NSLog(@"Git Test 20150509");
 }
 
 - (void)didReceiveMemoryWarning {
